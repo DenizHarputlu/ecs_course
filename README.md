@@ -10,4 +10,6 @@ Homework 2 : https://colab.research.google.com/drive/1b0lZOxu70lezqdUPBRT6a0zZlb
 
 week-2-1_python_basics_code : https://colab.research.google.com/drive/1Nh3ofubu2nRegpBk9w0hBI-MKZGUWhMH?usp=sharing
 
-week-2-2_python_basics_code : 
+week-2-2_python_basics_code : https://colab.research.google.com/drive/14XCnDAxOZY-s3EHvTvPGwuHMbwHWSzCK?usp=sharing
+
+week-2-2_python_libraries_code : 
