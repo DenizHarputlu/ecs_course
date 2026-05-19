@@ -14,4 +14,4 @@ week-2-2_python_basics_code : https://colab.research.google.com/drive/14XCnDAxOZ
 
 week-2-2_python_Numpy-1_code : https://colab.research.google.com/drive/1OUiG5ZP84WmJbJ-yIFB3HSAjCxtxtOOO?usp=sharing
 
-week-3-1_python_Numpy-2_code : 
+week-3-1_python_Numpy-2_Pandas_code : https://colab.research.google.com/drive/1Q_TI8_TcF48WC3YU7VBupbw_F1xuPpsr?usp=sharing
