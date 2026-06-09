@@ -1,6 +1,7 @@
 # ecs_course
 
 ----------------------- 5-7 MAYIS -----------------------
+
 week-1-1_Github_Basics : The lesson was taught verbally
 
 Homework 1 : https://denizharputlu.github.io/
@@ -11,6 +12,7 @@ Homework 2 : https://colab.research.google.com/drive/1b0lZOxu70lezqdUPBRT6a0zZlb
 
 
 ----------------------- 12-14 MAYIS -----------------------
+
 week-2-1_python_basics_code : https://colab.research.google.com/drive/1Nh3ofubu2nRegpBk9w0hBI-MKZGUWhMH?usp=sharing
 
 week-2-2_python_basics_code : https://colab.research.google.com/drive/14XCnDAxOZY-s3EHvTvPGwuHMbwHWSzCK?usp=sharing
@@ -20,12 +22,14 @@ week-2-2_python_Numpy-1_code : https://colab.research.google.com/drive/1OUiG5ZP8
 
 
 ----------------------- 19-21 MAYIS -----------------------
+
 week-3-1_python_Numpy-2_Pandas_code : https://colab.research.google.com/drive/1Q_TI8_TcF48WC3YU7VBupbw_F1xuPpsr?usp=sharing
 
 week-3-2 :
 
 
 ----------------------- 2-4 HAZİRAN -----------------------
+
 week-4-1 :
 
 week-4-2 : İPTAL EDİLDİ
